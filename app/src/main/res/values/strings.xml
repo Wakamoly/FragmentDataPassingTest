@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">FragmentDataPassingTest</string>
+    <string name="app_name">Fragment Data Passing Test</string>
+    <string name="label_f1">Move text input to the next fragment</string>
+    <string name="button_f1">Next Fragment</string>
+    <string name="label_f2">Show text input from previous fragment here</string>
+    <string name="button_f2">Previous Fragment</string>
 </resources>
